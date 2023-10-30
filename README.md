@@ -1,2 +1,2 @@
-# ICELL-NITRR-recruitment
-task in recruitment for ICELL of NITRR
+# robotics-NITRR-recruitment
+task in recruitment for robotics of NITRR
